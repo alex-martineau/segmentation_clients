@@ -104,3 +104,8 @@ segmentation_clients
 ├── Martineau_Alexandre_5_presentation_072024.pdf
 └── README.md
 ```
+
+## 🧩 Conclusion
+
+Le modèle K-Means offre une segmentation claire et exploitable des clients.
+Cette segmentation permet d’identifier 6 profils distincts, d’orienter les stratégies marketing et de mettre en place un suivi dynamique de la clientèle via un système de resegmentation périodique.
