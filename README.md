@@ -91,7 +91,7 @@ Le dépôt contient :
 ## 📂 Structure du dépôt  
 
 ```text
-Customer_Segmentation
+segmentation_clients
 │
 ├── Notebooks/
 │   ├── Feature_Engineering_and_Analysis.ipynb
