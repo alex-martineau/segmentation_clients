@@ -105,6 +105,8 @@ segmentation_clients
 └── README.md
 ```
 
+---
+
 ## 🧩 Conclusion
 
 Le modèle K-Means offre une segmentation claire et exploitable des clients.
